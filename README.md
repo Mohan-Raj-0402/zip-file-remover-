@@ -1,4 +1,10 @@
 # zip-file-remover
+## Installation
+```bash
+pip install pyzipper
+
+
+# ------------------------
 Brute-forcing a zip file password becomes very slow as you increase:
 
 the number of characters in charset
