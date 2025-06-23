@@ -10,5 +10,4 @@ Even max_length=5 with len(charset)=94 can take billions of attempts:
 python
 Copy
 Edit
-
-'94^5 ≈ 7.3 billion combinations'
+`94^5 ≈ 7.3 billion combinations`
